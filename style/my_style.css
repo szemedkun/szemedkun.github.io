@@ -1,0 +1,12 @@
+hr
+{
+    background-color: #eee;
+    border: 0 none;
+    color: #eee;
+    height: 10px;
+}
+
+.container
+{
+	max-width: 940px;
+}
